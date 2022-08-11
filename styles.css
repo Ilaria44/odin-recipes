@@ -38,7 +38,8 @@ img {
 .enjoy {
   font-style: italic;
   color: darkgreen;
-  letter-spacing: 2px;
+  letter-spacing: 3.5px;
+  font-size: 26px;
   text-align: center;
   text-decoration: underline solid 2px;
 }
